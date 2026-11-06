@@ -31,8 +31,3 @@ SimpleDurabilityStatus displays the current durability percentage of your equipp
 <img width="755" height="504" alt="image" src="https://github.com/user-attachments/assets/f61756d1-7a03-4b83-9aee-e4c7be0f1491" />
 <img width="654" height="496" alt="image" src="https://github.com/user-attachments/assets/de74a929-b7cf-4fba-bc82-f4565318efa9" />
 <img width="717" height="561" alt="image" src="https://github.com/user-attachments/assets/cbc9e05f-5f97-47e2-aa81-4ee2bec0803f" />
-
-
-
-
-Place future screenshots in the `screenshots/` directory and link them in this section.
