@@ -23,9 +23,16 @@ SimpleDurabilityStatus displays the current durability percentage of your equipp
 | `/sds unlock` | Unlock the display so you can drag it to a new position. |
 | `/sds lock` | Lock the display in its current position. |
 | `/sds size <number>` | Set the font size to a positive number. |
+<img width="683" height="373" alt="image" src="https://github.com/user-attachments/assets/b34ab827-cd12-466b-94aa-c5974e12d52e" />
 
 ## Screenshots
 
-<!-- Add screenshots here, for example: ![Durability display](screenshots/durability-status.png) -->
+<img width="824" height="553" alt="image" src="https://github.com/user-attachments/assets/ad87ab1c-1e97-4bdc-a018-1e5821b26fb4" />
+<img width="755" height="504" alt="image" src="https://github.com/user-attachments/assets/f61756d1-7a03-4b83-9aee-e4c7be0f1491" />
+<img width="654" height="496" alt="image" src="https://github.com/user-attachments/assets/de74a929-b7cf-4fba-bc82-f4565318efa9" />
+<img width="717" height="561" alt="image" src="https://github.com/user-attachments/assets/cbc9e05f-5f97-47e2-aa81-4ee2bec0803f" />
+
+
+
 
 Place future screenshots in the `screenshots/` directory and link them in this section.
